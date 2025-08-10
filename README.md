@@ -45,6 +45,14 @@ This app demonstrates a secure and modern authentication flow with:
 
 ---
 
+
+## Live Demo 🌐
+
+Check out the live application here: [https://fullstack-auth-app-sand.vercel.app](https://fullstack-auth-app-sand.vercel.app)
+
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
