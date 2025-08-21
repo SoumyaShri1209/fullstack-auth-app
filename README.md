@@ -48,7 +48,8 @@ This app demonstrates a secure and modern authentication flow with:
 
 ## Live Demo 🌐
 
-Check out the live application here: [https://fullstack-auth-app-sand.vercel.app](https://fullstack-auth-app-sand.vercel.app)
+🔗 **[Live Demo](https://fullstack-auth-app-sand.vercel.app)**
+
 
 
 ---
